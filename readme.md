@@ -1,9 +1,8 @@
-# Análise de Vendas em Python: extraindo Indicadores relevantes para o Negócio!
+# Análise de Vendas em Python
 
 Este repositório é um projeto básico em Python para análise de informações de uma planilha de vendas. Este conteúdo foi ministrado pela plataforma Hashtag Treinamentos, em formato de minicurso gratuito. Segue o link para quem também tiver interesse de aprender!
 
-    https://pages.hashtagtreinamentos.com/minicurso-python-curso-basico-python-obrigado?blog=1n4033rer&video=3zd56c2h7
-
+<a href="https://pages.hashtagtreinamentos.com/minicurso-python-curso-basico-python-obrigado?blog=1n4033rer&video=3zd56c2h7">CURSO BÁSICO DE PYTHON</a>
 
 ## Funcionalidades
 
